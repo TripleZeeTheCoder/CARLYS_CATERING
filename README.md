@@ -5,3 +5,10 @@ Display the motto by Carly's Catering
 
 MOTTO2
 Display the motto by Carly's Catering and cover the motto within asterisks border.
+
+Event Price
+Prompt the user for value
+Computes price for the event $35 per person 
+Dislay motto2
+Display number of guest, price per guest, and tota price
+Indicate true or false if the event is a large event with 50 or more guest.
