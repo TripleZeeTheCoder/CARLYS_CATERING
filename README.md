@@ -12,3 +12,6 @@ Computes price for the event $35 per person
 Dislay motto2
 Display number of guest, price per guest, and tota price
 Indicate true or false if the event is a large event with 50 or more guest.
+
+METHODS
+3 methods: user input, company motto, calculator of event
